@@ -7,7 +7,9 @@ Analyzed the relationship between various factors of reports like Happiness scor
 We used the following functions for visualizations-
 <br>
 1-Scatterplot
+<br>
 2-Pieplot
+<br>
 3-Barplot
 <br>
 <br>
